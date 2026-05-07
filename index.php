@@ -76,7 +76,10 @@
             <button class="btn-read" onclick="alert('Read Clicked')">Read</button>
             <a href="testing/halaman_testing.php" target="_blank">
             <button class="btn-testing">Testing</button>
-
+            
+            <button class="btn-read" onclick="alert('Read Clicked')">Read</button>
+            <a href="testing/halaman_testing.php" target="_blank">
+            <button class="btn-testing">Testing</button>
         </a>        
     </div>
 
